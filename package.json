@@ -1,0 +1,18 @@
+{
+  "name": "infinity-Webflow",
+  "version": "1.0.0",
+  "description": "Infinity",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "webflow",
+    "saas",
+    "ecommerce",
+    "template"
+  ],
+  "author": "Infinity",
+  "license": "MIT"
+}
+
